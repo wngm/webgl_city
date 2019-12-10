@@ -1,0 +1,25 @@
+{
+  "name": "webgl_city",
+  "version": "1.0.0",
+  "description": "just a city model",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wngzhe/webgl_city.git"
+  },
+  "keywords": [
+    "webgl",
+    "city",
+    "model",
+    "three"
+  ],
+  "author": "wengzhe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wngzhe/webgl_city/issues"
+  },
+  "homepage": "https://github.com/wngzhe/webgl_city#readme"
+}
